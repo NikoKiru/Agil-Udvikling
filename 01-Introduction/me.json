@@ -1,0 +1,8 @@
+{
+    "name": "Nikolaj",
+    "age": 22 ,
+    "hairColor": "Brown" ,
+    "breathing": true ,
+    "isAlive": true ,
+    "sports": ["swimming", "football", "motorsport"]
+}
